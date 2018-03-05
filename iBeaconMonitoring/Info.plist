@@ -22,7 +22,9 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>NSLocationAlwaysUsageDescription</key>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>IBeacon検出のため。</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>IBeacon検出のため。</string>
 	<key>UIBackgroundModes</key>
 	<array>
